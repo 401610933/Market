@@ -1,6 +1,6 @@
-# market_1.0
+# 天生智慧生鲜市场
 
-> 智慧市场1.0版本
+> A Vue.js project
 
 ## Build Setup
 
